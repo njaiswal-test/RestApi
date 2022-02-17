@@ -11,7 +11,7 @@ This project aims to automate API "https://www.purgomalum.com/service". please f
     project is build using Selenium, Java, cucumber, Restassured.
 
 ### steps
-    1) clone repo: git clone https://github.com/nehajaiswal90/RestApi.git
+    1) clone repo: git clone https://github.com/njaiswal-test/RestApi
     2) cd ${pathtoproject}/
     3) with Maven - `mvn test`
 
